@@ -49,5 +49,24 @@ img{
     width: 25%;
     height: 25%;
 }
+#menu li img{
+  width: 120px;
+  height: 120px;
+  border-radius: 8px;
+  margin-right: 15px;
+}
+img{
+  width: 24%;
+  height: 20%;
+}
+.cardapio{
+  display: flex;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
 
+}
+.pratos{
+  width: 25%;
+}
   
