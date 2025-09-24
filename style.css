@@ -6,14 +6,14 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #fff9f0;
+  background-color: #030200;
   color: #000000;
   padding: 20px;
 }
 
 header {
-  background-color: #8a0f3a;
-  color: white;
+  background-color: #7d0831;
+  color: rgb(0, 0, 0);
   text-align: center;
   padding: 20px 20px;
   border-radius: 8px;
@@ -21,15 +21,15 @@ header {
 
 section {
   margin: 30px 0;
-  background-color: #fff;
+  background-color: #000000;
   padding: 20px;
-  border-left: 5px solid #871247;
+  border-left: 5px solid #64032f;
   border-radius: 4px;
 }
 
 h2 {
   margin-bottom: 10px;
-  color: #9b0c4a;
+  color: #81043a;
 }
 
 ul {
