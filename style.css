@@ -6,14 +6,14 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #ffffff;
+  background-color: #000000;
   color: #000000;
   padding: 20px;
 }
 
 header {
   background-color: #4a021b;
-  color: rgb(102, 81, 81);
+  color: rgb(203, 100, 254);
   text-align: center;
   padding: 20px 20px;
   border-radius: 8px;
@@ -21,7 +21,7 @@ header {
 
 section {
   margin: 30px 0;
-  background-color: #4c4545;
+  background-color: #c766b0;
   padding: 20px;
   border-left: 5px solid #3d011c;
   border-radius: 4px;
